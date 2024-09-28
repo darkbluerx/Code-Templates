@@ -1,0 +1,4 @@
+repository "Code-Templates@antti90sironen@cloud"
+  path "/"
+    br "/main"
+    co "/main"
